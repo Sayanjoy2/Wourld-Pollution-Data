@@ -1,0 +1,55 @@
+,continent,country,capital_city,mega_city,capital_population,population,total_co2,co2_per_capita,total_methane,methane_per_capita
+0,Europe,Russia,Moscow,Moscow,12506468.0,12506500,1.7,11.88,684.3,4.77
+1,Europe,Russia,Moscow,Saint Petersburg,12506468.0,5351900,1.7,11.88,684.3,4.77
+2,Europe,United Kingdom,London,London,8961989.0,8962000,348.92,5.18,50.11,0.74
+3,The Americas,Brazil,Brasilia,SÃ£o Paulo,2912090.0,12141900,434.3,2.03,431.07,2.01
+4,The Americas,Colombia,Bogota,Bogota,7412566.0,7412600,81.04,1.58,76.84,1.5
+5,The Americas,Brazil,Brasilia,Rio de Janeiro,2912090.0,6747800,434.3,2.03,431.07,2.01
+6,The Americas,Chile,Santiago,Santiago,6269384.0,6269400,91.37,4.76,11.59,0.6
+7,The Americas,Mexico,Mexico City,Mexico City,9209944.0,9209900,449.27,3.45,138.8,1.07
+8,Asia,China,Beijing,Shanghai,21893095.0,24870900,10.71,7.58,1.18,0.83
+9,Asia,China,Beijing,Chongqing,21893095.0,22251500,10.71,7.58,1.18,0.83
+10,Asia,China,Beijing,Beijing,21893095.0,21893100,10.71,7.58,1.18,0.83
+11,Asia,China,Beijing,Guangzhou,21893095.0,18676600,10.71,7.58,1.18,0.83
+12,Asia,China,Beijing,Shenzhen,21893095.0,14678000,10.71,7.58,1.18,0.83
+13,Asia,China,Beijing,Chengdu,21893095.0,11241000,10.71,7.58,1.18,0.83
+14,Asia,China,Beijing,Tianjin,21893095.0,10932000,10.71,7.58,1.18,0.83
+15,Asia,China,Beijing,Hangzhou,21893095.0,9119000,10.71,7.58,1.18,0.83
+16,Asia,Bangladesh,Dhaka,Dhaka,8906035.0,8906000,90.74,0.55,92.65,0.56
+17,Asia,China,Beijing,Wuhan,21893095.0,8896900,10.71,7.58,1.18,0.83
+18,The Americas,United States,"Washington, D.C.",New York City,724342.0,8601200,4.82,14.52,744.51,2.24
+19,Asia,China,Beijing,Shenyang,21893095.0,8294200,10.71,7.58,1.18,0.83
+20,Asia,China,Beijing,Dongguan,21893095.0,8220200,10.71,7.58,1.18,0.83
+21,Asia,China,Beijing,Foshan,21893095.0,7197400,10.71,7.58,1.18,0.83
+22,Asia,China,Beijing,Xiâ€™an,21893095.0,7135000,10.71,7.58,1.18,0.83
+23,Asia,China,Beijing,Zhengzhou,21893095.0,6704100,10.71,7.58,1.18,0.83
+24,Asia,China,Beijing,Nanjing,21893095.0,6525000,10.71,7.58,1.18,0.83
+25,Asia,China,Beijing,Qingdao,21893095.0,5930000,10.71,7.58,1.18,0.83
+26,Asia,China,Beijing,Shantou,21893095.0,5389300,10.71,7.58,1.18,0.83
+27,Asia,Burma,Nay Pyi Taw,Rangoon,924608.0,5160500,36.72,0.67,73.05,1.33
+28,Asia,China,Beijing,Harbin,21893095.0,5115000,10.71,7.58,1.18,0.83
+29,Asia,India,New Delhi,Delhi,257803.0,18498200,2.46,1.76,656.65,0.47
+30,Asia,Japan,Tokyo,Tokyo,13960236.0,13960200,1.08,8.61,27.38,0.22
+31,Asia,India,New Delhi,Mumbai,257803.0,12442400,2.46,1.76,656.65,0.47
+32,Asia,Indonesia,Jakarta,Jakarta,10562088.0,10562100,619.84,2.24,280.95,1.02
+33,Asia,India,New Delhi,Hyderabad,257803.0,9482000,2.46,1.76,656.65,0.47
+34,Asia,Iran,Tehran,Tehran,8846782.0,8846800,630.01,7.41,213.68,2.51
+35,Asia,India,New Delhi,Bangalore,257803.0,8443700,2.46,1.76,656.65,0.47
+36,Asia,Iraq,Baghdad,Baghdad,8126755.0,8126800,174.56,4.24,134.69,3.27
+37,Asia,India,New Delhi,Chennai,257803.0,7088000,2.46,1.76,656.65,0.47
+38,Asia,Hong Kong,Hong Kong,Hong Kong,7012738.0,7012700,43.64,5.89,3.15,0.42
+39,Asia,India,New Delhi,Surat,257803.0,6176000,2.46,1.76,656.65,0.47
+40,Asia,India,New Delhi,Ahmedabad,257803.0,5633900,2.46,1.76,656.65,0.47
+41,Asia,Pakistan,Islamabad,Karachi,1014825.0,14910400,190.57,0.85,162.76,0.72
+42,Asia,Turkey,Ankara,Istanbul,5663322.0,14670000,396.84,4.67,48.52,0.57
+43,Asia,Pakistan,Islamabad,Lahore,1014825.0,11126300,190.57,0.85,162.76,0.72
+44,Asia,Thailand,Bangkok,Bangkok,10539000.0,10539000,267.09,3.82,70.19,1.0
+45,Asia,South Korea,Seoul,Seoul,9733509.0,9733500,610.79,11.8,22.7,0.44
+46,Asia,Vietnam,Hanoi,Ho Chi Minh City,4678198.0,8993100,336.49,3.43,80.48,0.82
+47,Asia,Saudi Arabia,Riyadh,Riyadh,7676654.0,7676700,523.78,14.82,110.25,3.12
+48,Asia,Singapore,Singapore,Singapore,5685800.0,5685800,47.38,8.69,4.25,0.78
+49,Asia,Turkey,Ankara,Ankara,5663322.0,5663300,396.84,4.67,48.52,0.57
+50,Africa,Egypt,Cairo,Cairo,9539673.0,9539700,249.37,2.39,75.13,0.72
+51,Africa,Egypt,Cairo,Alexandria,9539673.0,5200000,249.37,2.39,75.13,0.72
+52,Africa,Nigeria,Abuja,Lagos,2750000.0,14234000,115.28,0.55,135.84,0.64
+53,Africa,Morocco,Rabat,Casablanca,573895.0,5117800,71.48,1.91,12.16,0.33
